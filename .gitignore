@@ -1,0 +1,10 @@
+# Folders to exclude
+
+*.vscode*
+*.idea*
+*venv*
+
+# Files to exclude
+
+Pipfile
+Pipfile.lock
